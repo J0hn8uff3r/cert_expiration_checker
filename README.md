@@ -2,4 +2,5 @@
 Tiny bash script to check the expiration date of a domain SSL certificate
 
 
-![alt tag](https://pasteboard.co/JLlzL7Q.png)
+![alt tag](https://i.postimg.cc/63fyy8Y6/Captura.jpg)
+
